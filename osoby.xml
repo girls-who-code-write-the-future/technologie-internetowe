@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rejestracja SYSTEM "osoby.dtd">
+<rejestracja>
+    <osoba id="1">
+        <imie>Anna</imie>
+        <nazwisko>Kowalska</nazwisko>
+        <plec>Kobieta</plec>
+        <wiek>25</wiek>
+    </osoba>
+</rejestracja>
